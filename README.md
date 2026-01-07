@@ -9,7 +9,7 @@ This is a python script which can be run to collect the basic details of the NKP
 ### Steps:
 1. Set the current context with the KUBECONFIG of the management cluster
     ```sh
-    export KUBECONFFIG=<nkp-mgmt.conf>
+    export KUBECONFIG=<nkp-mgmt.conf>
     ```
 
 2. Run the python script 
